@@ -1,7 +1,6 @@
 ![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
 
 <h1 align="center">Hi 👋, I'm Abhishekh</h1>
-<h3 align="center">An AI/ML Enthusiast and a Web Developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksweb&label=Profile%20views&color=0e75b6&style=flat" alt="aksweb" /> </p>
 
